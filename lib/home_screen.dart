@@ -7,6 +7,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         title: Text('Git'),
       ),
+      body: Text('MO'),
     );
   }
 }
